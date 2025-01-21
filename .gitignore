@@ -1,0 +1,48 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Debug files
+*.pdb
+*.ilk
+
+# MacOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific files
+Thumbs.db
+Desktop.ini
+
+# IDE specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+build/
+Makefile
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Miscellaneous
+*.gz
+*.zip
+*.tar
